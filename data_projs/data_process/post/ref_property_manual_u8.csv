@@ -1,0 +1,193 @@
+,content,density,viscosity
+0,0% glycerol-water solution,1070.0,0.00282
+1,0% phosphate acid,1510.0,
+2,0.02% cmc,1000.0,0.05
+4,0.1% cmc in water,998.0,0.005555
+7,0.2 mol/l y2o3 in hydrochloric acid solution,,0.007
+8,0.2 xg+t,1000.5,0.0010045
+11,0.50% cmc solution,1001.1,0.55
+12,1 m dmdbtdma in n-dodecane,1116.12,0.001131
+13,"1,6-hexanediol diacrylate",1020.0,0.00671
+15,10 cst silicone oil with surfactants (dow corning 749),,350.0
+16,10% (v/v) ferrofluid,958.65,0.01
+18,100 k peo solution,872.5,0.0155
+19,1–10 wt% poly(vinyl alcohol),,0.0172
+20,2 wt% poly (vinyl alcohol) aqueous,1000.0,0.00195
+21,2% (w/w) solution of span80 in hexadecane,,0.01011
+22,2% ultra-low-viscosity alginate,,0.0135345
+24,2-propanol,1050.0,
+25,2.3% pva,1005.9,0.0028
+26,2000 ppm aqueous phenol solution with 30 ppm tween 20,998.0,0.001005
+28,35 wt % glycerol–water mixture with 0.3 wt % sds,998.0,0.001002
+32,40% glycerol,,0.0057
+33,40/60% chloroform/cyclohexane (w/w) + 1% pbut-b-peo (w),970.0,0.00095
+34,40/60% chloroform/cyclohexane (w/w) in the presence of 1% pbut-_b_ -peo (w),1.02,0.0018
+35,5 wt % chitosan aqueous solution,996.0,0.11238
+36,50 cst oil,,0.003
+37,50 wt % ethylene glycol/water mixture,1104.0,0.0015955000000000001
+38,50 wt% glycerol solution with 1 wt% sds,,0.00692
+39,"50% (v/v) ferrofluid, 10% (v/v) ferrofluid",1000.0,0.001
+40,50% glycerol + 0.3% sds,1000.0,0.04
+41,50% glycerol aqueous solution,1128.0,0.005
+42,50% glycerol solution,,0.1087
+43,50%glycerol/50%water,,0.005
+44,50/50 (v/v) acetonitrile and water mixture,856.0,8.645000000000001e-10
+46,60wt% glycerol + 40wt% distilled water,1000.0,0.001
+47,67 µs/cm xanthan gum solution,,0.16675
+48,70 wt% glycerol and 30 wt% distilled water,1183.0,0.01907
+49,75% glycerol solution,,0.00815
+52,[bmim][pf6] ionic liquid,1366.8,0.25176
+53,acrylamide aqueous solution,,0.00125
+56,air,877.5,0.0055
+57,alginate,1300.0,0.0053950000000000005
+58,alginate solution,1050.0,0.1265
+61,ammonium ceric nitrate,300.0,
+62,aqueous,993.5,0.0044738
+64,aqueous glycerin solution,1162.0,0.01058
+65,aqueous glycerol solutions,,0.5275
+66,aqueous phase,844.6,0.001475
+67,aqueous phase with 5 different surfactants,920.0,0.0046
+68,aqueous solution of phenol,723.1,0.0019
+70,aqueous with biological cells,850.0,0.02
+71,blue fluid,1000.0,0.084325
+72,blue phase fluid,1.0,8e-05
+73,bsa solution,1052.0,0.00143
+76,carbopol gel,908.7275,0.0014302
+79,castor oil,935.0,0.4335
+81,chitosan,850.0,0.00648
+83,chitosan solutions,,3.12275
+84,co2,517.0,4.7e-05
+85,co2 saturated [emim][bf4],1425.0,0.0155
+86,"co2-mt, co2-ea, co2-npa",997.0,0.000945
+88,crystallization solution,1013.0,0.00028
+91,dbd,938.0,0.0084
+92,dbd with different concentrations of span 80,,0.2042525
+95,de-ionized water with surfactant sodium dodecyl sulfate (0.25 wt%),1000.0,0.00092
+97,deionized water,917.55,0.00089
+98,"deionized water (millipore, 18.2 mω cm)",800.0,0.01
+99,deionized water with 0.5 wt% sds,,0.002
+100,deionized water with 2% (wt) surfactant sodium dodecyl sulfate (sds),1001.5,0.00113
+102,di water,999.0,0.001
+104,di water with 60.5 wt. % glycerin,,0.009
+105,di water with food coloring,,0.011445
+106,di-water,,0.001
+107,different concentrations,1155.0,0.001
+108,different concentrations of glycerol (0–50 wt%) in deionized water,,0.0019649999999999997
+109,different viscous solutions,,0.2405
+110,dilute polymer solution,1286.0,0.1
+111,dimethyl silicone oil,920.0,0.01
+112,distilled water,997.1,0.0035099999999999997
+114,dmdbdtdma 1 m in n-dodecane,8.0,0.02027
+116,dragoxat,,0.000752275
+118,ethanol,799.0,0.001
+119,ethanol (liquid),179.0,1.96e-05
+121,fc-40,,0.1
+122,fc-43,800.0,0.01
+123,ferrofluid,1100.0,0.002
+124,"ferrofluids (ni, co, mg, or zn compositions of ferrite (fe2o4), magnetite (fe3o4), or maghemite (g-fe2o3) in a nonmagnetic liquid (aqueous or hydrocarbon) carrier phase)",1420.0,0.012
+125,fluid 1,1000.0,0.00195
+126,fluid 2,1020.0,0.00671
+128,fluorinated oil fc-40,,0.0041
+129,fluorinated oil fc-70,1940.0,2.3e-05
+130,fluorinated oil hfe-7500,,0.0012
+132,gas,800.0,0.001
+133,gas (air),,0.12045
+137,gelatin,997.0,0.001
+138,glycerin water,826.0,0.02513
+140,glycerol,1000.0,0.001
+143,"glycerol-water solution (0%, 30%, 60% mass fractions)",,0.00095
+144,glycerol-water solutions,1214.5,0.0091
+148,hexadecane,875.0,0.0019125000000000001
+149,hexadecane 95%,,0.0036
+153,hfe-7200,1430.0,0.0006
+154,hfe-7500,,0.0012
+156,high-viscosity silicone oils,1000.0,0.05
+157,higher viscous liquid,1223.7,0.0456
+158,highly viscous liquid,1223.7,0.035100000000000006
+160,hsa,,0.0033
+161,hydrogen,82.5,0.07
+162,il,1210.0,0.0664
+163,il([bmim] [pf6]),1366.8,0.25176
+165,incompressible and dielectric,925.0,0.000825
+166,isobutylene-isoprene rubber (iir) solution,696.0,0.1422
+168,light mineral oil,838.0,0.0231
+169,liquid,15.15,0.0022
+170,liquid paraffin,837.5,0.0168
+171,liquid paraffin with 2% span80,826.5,0.02513
+172,liquid with different viscosities,,0.0108
+173,low-viscosity liquid,935.0,0.1537
+174,mea 0.8 mol·l−1,998.4000000000001,0.000835
+176,methanol,909.15,0.0691
+179,mineral oil,858.0,0.02955
+180,mineral oil with 4 wt% surfactant sorbitan laurate (span 20),872.5,0.026
+181,mineral oil with 4 wt.% surfactant sorbitanlauric acid ester (span 20),875.1,0.026
+182,mineral oil with 4% surfactant,840.0,0.0241
+185,mixture inside in model a,950.0,0.005
+186,mixture of ethanol and water,,0.00104
+187,mustard oil,902.0,0.06
+188,n-dodecane oil,1000.0,0.001
+189,n-hexane,,0.00037
+192,n2,1000.0,0.00092
+195,newtonian and immiscible liquid,1000.0,0.001
+196,newtonian fluid,,0.001375
+199,nitrogen gas,,0.12085000000000001
+205,octane with span 80,,0.00054
+206,octanol,822.5,0.00665
+207,oil,1000.0,0.001
+211,olive oil,1000.0,0.0345
+212,organic,998.0,0.0015
+213,organic phase,979.9,0.001004
+214,oxygen,1.3,2e-05
+216,paraffin oil,997.0,0.453
+217,pdms,,3.5
+219,peo solution,,0.005
+220,peo-glycerol solution,1105.6,0.00052
+221,perfluoropolyether oil,1477.5,0.082565
+222,pfc,1020.0,0.00635
+224,phenol + deionized water,1006.2,0.00102
+227,photocatalytic reaction solution,893.0,0.0013
+228,pickering emulsion,0.5,
+229,plga-_b_ -peg,,0.0186
+231,polydimethylsiloxane (pdms),920.0,0.008
+232,polyvinyl alcohol solution,1000.0,0.00195
+233,polyvinyl alcohol solution (2% by wt),1000.0,0.00195
+234,power-law fluid with _n_ = 0.8 and _k_ = 0.025 pa s _n_,,0.002
+236,ps shell and water,4.0,
+238,pure water,1000,0.003
+240,r113,1502.0,0.000477
+241,"reactants (r1, r2)",987.0,0.00091
+242,red fluid,1000.0,0.04
+243,red phase fluid,1.0,8e-05
+246,rhodamine b solution,103.0,0.001
+247,scmc,998.2,0.00093
+249,sds concentrations,,0.00692
+251,second component fluid,,0.0002428
+252,shear-thinning non-newtonian fluids,947.0,1.06008
+253,silica beads in pbs,1200.0,
+255,silicone oil,950.0,0.02
+256,silicone oil 47v100,967.5,0.865
+257,silicone oil kf96-100cs,998.2,0.00101
+258,silicone oil kf96-10cs,,3.44e-05
+259,silicone oil with 5 wt% dowsil rsn0749 surfactant,,0.01016
+260,silicone oil with dimethicone copolyol silicone surfactant,980.0,0.0019
+261,silicone oils,1221.0,0.12
+262,slurry,1024.62,0.02652
+263,sodium dodecyl sulfate (sds),,0.00037
+265,solution d a,995.6,0.02415
+267,soybean oil,997.0,0.0144725
+268,squalene,,0.028
+269,sulfonated kerosene mixed with 2-ethylhexyl phosphonic acid mono-2-ethylhexyl ester p507 and sodium hydroxide,,0.00124
+270,sunflower oil,915.5,0.0482
+274,"surfactant (fluosurf 1.8 w/w% in hfe7500, emulseo) stabilised fluorinated oil (hfe7500, 3m™ novec)",1039.0,0.001002
+275,surfactant type and surfactant concentration,1132.0,0.0068
+276,surfactant-laden,1162.0,0.01058
+277,swelled biopolymer,,0.017625
+283,tween 20,,0.00692
+287,uv glue,,0.128
+289,viscous fluids,,0.026437500000000003
+290,water,1000.0,0.001
+292,water with dna,,0.001
+293,"water, 10% gly",1000.09,0.00402
+296,wetting fluid,1000.0,7.12e-05
+297,white oil,818.5,0.07600000000000001
+298,working solution,899.0,0.00241
