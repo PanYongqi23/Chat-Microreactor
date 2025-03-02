@@ -13,5 +13,12 @@ If you have suggestions or encounter issues with the project, please feel free t
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Citation
+If you find Chat-Microreactor useful in your research or applications, please kindly cite:
+~~~
+ Pan Y, Xiao Q, Zhao F, Li Z, Liu J, Ullah S, et al. Chat-Microreactor: A Large-Language-Model-Based Assistant for Designing Continuous Flow Systems. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-52g9l
+~~~
+
 ## Support
 For any questions or issues, please open an issue on the GitHub repository or reach out to us at panyq23@mails.tsinghua.edu.cn
